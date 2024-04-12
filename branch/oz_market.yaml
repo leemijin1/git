@@ -1,6 +1,16 @@
 team: oz_market
+<<<<<<< HEAD
 leader: 희동
 member:
 -민준
 -동욱
 -아름
+=======
+
+leader: 희동
+
+member:
+- 민준
+- 동욱
+- 아름
+>>>>>>> add-coach
